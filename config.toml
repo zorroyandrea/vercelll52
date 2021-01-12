@@ -1,0 +1,4 @@
+baseURL = "https://centergardengoess.vercel.app"
+languageCode = "en-us"
+title = "Center Garden Home"
+theme = "tale-hugo-master"
